@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+keras
+plot_keras_history
+lightgbm
+sklearn
+xgboost
+torch
+tensorflow
